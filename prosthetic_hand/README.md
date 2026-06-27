@@ -2,6 +2,27 @@
 
 An Arduino-based end terminal device designed for partial hand amputees.  
 Controls 5 servo motors for full grip and pinch gesture using push buttons.
+## 3D Design Files
+All printable STL files are available in the [`3d-files/`](3d-files/) folder.
+
+| Part | File |
+|------|------|
+| Arm | Arm.stl |
+| Arm Cover | Arm_Cover.stl |
+| Index Finger | Finger_Index.stl |
+| Middle Finger | Finger_Middle.stl |
+| Pinky Finger | Finger_Pinky.stl |
+| Ring Finger | Finger_Ring.stl |
+| Thumb | Finger_Thumb.stl |
+| Left Hand | Left_Hand.stl |
+| Right Hand | Right_Hand.stl |
+
+> 3D files can be viewed interactively on GitHub — click any `.stl` file to rotate and inspect the model in browser.
+
+## Hackathon
+- **Event:** ISTE Tamil Nadu Section Hackathon 2026
+- **Venue:** Mahendra Engineering College  
+- **Result:** 🏆 1st Prize
 
 ## Hardware
 - Arduino Uno/Nano
